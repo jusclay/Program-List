@@ -1,0 +1,9 @@
+1. Jamaica Man
+2. Agility Man
+3. Bolt Man
+4. Sticky Man
+5. Water Man
+6. Fire man
+7. Gorjo Girl
+
+Please enter the number of your superhero:
